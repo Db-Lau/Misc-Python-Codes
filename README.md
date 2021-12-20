@@ -1,8 +1,4 @@
-# dataframe_trick
-Contains short codes of dataframe
+# Misc-Python-Codes
 
-<ul>
-    <li>ipynb files </li>
-    <li>py files </li>
-</ul>
+This repository contains miscellaneous python codes in jupyter notebook format in foundamental topics.
 
